@@ -2,9 +2,6 @@
 
 Full-stack developer enfocado en llevar proyectos propios a producción real. Cursando las últimas materias de la Licenciatura en Sistemas (UNLP) — ya con el título de Analista Programador Universitario.
 
-- 🎯 Buscando mi primer rol como developer — interesado en roles que combinen ingeniería con resolución de problemas junto al cliente.
-- 🧠 Mi tesina de grado investiga cómo optimizar el uso de tokens en modelos de lenguaje de IA sin perder calidad de respuesta.
-
 
 ---
 
